@@ -8,8 +8,11 @@ This project showcases an interactive Power BI dashboard designed to analyze and
 **KPIs Overview:**
 
 Total Sales Amount (438K)
+
 Total Profit (36.9K)
+
 Quantity Sold (5615)
+
 Average Order Value (121K)
 
 **Sales Insights by Dimensions:**
